@@ -1,0 +1,16 @@
+{
+  "name": "subdomains-router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless": "^1.63.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Diego Arce <Diego@arce.cr> (https://github.com/ArcezD)",
+  "license": "ISC"
+}
